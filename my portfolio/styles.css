@@ -140,7 +140,6 @@
   /*  Nav Logo Span Linear-Gradient  */
   .navbar .logo a span {
     background: linear-gradient(135deg, #041d3d, #fff, crimson);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     transition: all 0.3s ease;
   }
@@ -250,7 +249,6 @@
   .home .home-content .text-3 span {
     color: #1e3551;
     background: linear-gradient(135deg, #041d3d, #fff, crimson);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: 500;
   }
@@ -282,7 +280,6 @@
     content: "—Who I Am ?—";
     text-overflow: ellipsis;
     display: -webkit-inline-box;
-    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
   }
   
@@ -311,7 +308,6 @@
   .about .about-content .right .text span {
     /* color: #1e3551; */
     background: linear-gradient(135deg, #041d3d, #fff, crimson);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
   
@@ -382,7 +378,6 @@
     font-size: 50px;
     color: #888e8d;
     background: linear-gradient(135deg, #041d3d, #fff, crimson);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     transition: color 0.3s ease;
   }
